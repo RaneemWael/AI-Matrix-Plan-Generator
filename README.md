@@ -24,8 +24,8 @@ You can find attaached to each of the project files a report detailing the steps
 
 ## How to run:
 1. Java:
-  - Download the Porject1 file as zip to your computer.
-  - Import to Eclipse as existing archive project and run.
+   - Download the Porject1 file as zip to your computer.
+   - Import to Eclipse as existing archive project and run.
 2. Prolog:
-  - Download the .pl file.
-  - Open in Prolog and run.
+   - Download the .pl file.
+   - Open in Prolog and run.
